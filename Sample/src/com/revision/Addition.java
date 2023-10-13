@@ -13,8 +13,10 @@ public class Addition {
 		int b = scanner.nextInt();
 
 		int c = a + b;
+		int d = a - b;
 
 		System.out.println("Addition of " + a + " & " + b + " is " + c);
+		System.out.println("Substraction of " + a + " & " + b + " is " + d);
 	}
 
 }
