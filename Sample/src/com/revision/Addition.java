@@ -14,9 +14,11 @@ public class Addition {
 
 		int c = a + b;
 		int d = a - b;
+		int e = a * b;
 
 		System.out.println("Addition of " + a + " & " + b + " is " + c);
 		System.out.println("Substraction of " + a + " & " + b + " is " + d);
+		System.out.println("Multiplication of " + a + " & " + b + " is " + e);
 	}
 
 }
