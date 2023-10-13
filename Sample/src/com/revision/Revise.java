@@ -1,10 +1,9 @@
 package com.revision;
 
-public class Example {
-
+public class Revise {
 	public static void main(String[] args) {
 
-		System.out.println("Feature Branch added");
+		System.out.println("PRE-MASTER");
 	}
 
 }
